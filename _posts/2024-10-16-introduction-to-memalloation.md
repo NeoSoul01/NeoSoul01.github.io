@@ -8,7 +8,7 @@ tags: [memory, optimization, computers]
 **In this blog we will be learning about how the memory can be allocated staticly!**
 
 
-**it is recommended to have a decent grasp on some concepts like `pointers`, `stack|heap memory`, I'm going to assume that you are already familiar with these topics so lets dive in!
+**it is recommended to have a decent grasp on some concepts like `pointers`, `stack|heap memory`, I'm going to assume that you are already familiar with these topics so lets dive in!**
 
 
 ## what is static memory allocation?
