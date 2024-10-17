@@ -26,8 +26,8 @@ cout<<"the value in heap is:"<<*ptr1<<endl;
 int* ptr2 = new int[10];
 for(int i=0 ; i < 10 ; i++)
 {
-    ptr2[i] = 10;
-    cout<<"the value of pointer at index "<<i<<" is :"<<ptr2[i]<<endl;
+ptr2[i] = 10;
+cout<<"the value of pointer at index "<<i<<" is :"<<ptr2[i]<<endl;
 }
 ```
 **syntax**
