@@ -18,26 +18,26 @@ int z = 10; // global variable which is also allocated staticly
 void memoryallocation()
 {
 
-  static int x = 10; // memory allocated staticly using keyword "static"
-  int y = 10; // automatic (stack) allocated memory
+static int x = 10; // memory allocated staticly using keyword "static"
+int y = 10; // automatic (stack) allocated memory
 
-  x++;
-  cout<<"value for x is : "<<x<<endl;
+x++;
+cout<<"value for x is : "<<x<<endl;
   
-  y++;
-  cout<<"value for y is : "<<y<<endl
+y++;
+cout<<"value for y is : "<<y<<endl
   
-  z++;
-  cout<<"value for z is :"<<z<<endl;
+z++;
+cout<<"value for z is :"<<z<<endl;
 
 }
 
 int main()
 {
-  for(int i = 0 ; i<3 ; i++)
-  {
-    memoryallocation();
-  }
+for(int i = 0 ; i<3 ; i++)
+{
+memoryallocation();
+}
 }
 ```
 
