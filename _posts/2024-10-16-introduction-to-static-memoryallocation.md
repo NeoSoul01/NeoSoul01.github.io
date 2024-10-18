@@ -23,10 +23,10 @@ int y = 10; // automatic (stack) allocated memory
 
 x++;
 cout<<"value for x is : "<<x<<endl;
-  
+//incrementing y  
 y++;
 cout<<"value for y is : "<<y<<endl
-  
+//incremented z  
 z++;
 cout<<"value for z is :"<<z<<endl;
 
