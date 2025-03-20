@@ -105,7 +105,7 @@ Now, I know this a very simple thing, but I had to use 1-2 extra brain cells to 
 
 ### Problem Set 2
 
-Time passes fast... we are now onto the second problem set, so what was this about? It's called cash and yeah you have to deal with currency in this problem set. You can visit the website called [edx.com](http://edx.com), search for cs50, find this problem set, and understand it yourself because if I start explaining the problem set itself, I would turn old.
+Time passes fast... we are now onto the second problem set, so what was this about? It's called cash and yeah you have to deal with currency in this problem set. You can visit the website called [edx.com](https://edx.org), search for cs50, find this problem set, and understand it yourself because if I start explaining the problem set itself, I would turn old.
 
 So, the main key in this problem set was actually understanding the problem set, although this is the key to solving 90% of programming problems, the rest is just being familiar with the syntax. So, how did I go about implementing the solution to solve this problem set? You are probably curious about it, right? If you aren't then I will cry.
 
