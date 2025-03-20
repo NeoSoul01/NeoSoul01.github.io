@@ -183,13 +183,13 @@ But.. I found a more simpler approach, just use the `.alpha()` function. Well, t
 int count = 0;
 int i = 0;
 while (text[i] != '\0')
- {
-    if(isalpha(text[i]))
-    {
-        count++;
-    }
-    i++;
- }
+{
+if(isalpha(text[i]))
+{
+ count++;
+}
+i++;
+}
 ```
 
 Can you notice the difference? Strings don't have a definite size like `int..etc` So the only way a computer can tell if a string is finished is by the literal character `\0`. so what I meant in the loop was as long as they don't encounter that symbol, just keep incrementing count and that solved my problem for `counting letters`.
