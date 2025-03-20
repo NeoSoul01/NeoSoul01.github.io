@@ -90,7 +90,7 @@ So, when I started translating it into Python, I faced one problem. Any guesses 
 ```python
 number = int(input("Enter the number : "))
 while number < 1 or number > 8:
-    number = int(input("Please Enter the number : "))
+number = int(input("Please Enter the number : "))
 
 for i in range(1, number+1): # equivalent to i=1 , i <= number
     for j in range(number - i):
@@ -101,7 +101,7 @@ for i in range(1, number+1): # equivalent to i=1 , i <= number
 
 The outer loop, in front of which there is a comment, do u see that? To make it similar to how the code was in `C`. I needed to do `1, number+ 1` meaning that the loop gets initialized at `1` and will continue till it is `equal to the number` not `less than that number` 
 
-Now, I know this a very simple thing, but I had to use 1-2 extra brain cells to figure it out. Other than that, It was simple and this is the `Mario-less` code. The difficult version of it which is `Mario-more` is very similar just more extra stuff. My fundamentals were cleared because of this problem which is why It didn't take me much time to solve the `Mario-more` version.
+Now, I know this is a very simple thing, but I had to use 1-2 extra brain cells to figure it out. Other than that, It was simple and this is the `Mario-less` code. The difficult version of it which is `Mario-more` is very similar just more extra stuff. My fundamentals were cleared because of this problem which is why It didn't take me much time to solve the `Mario-more` version.
 
 ### Problem Set 2
 
@@ -113,10 +113,9 @@ Anyway, let's dive into the code so I can make you understand things in a better
 
 ```python
 def main():
-
-    cents = int(input("Change owed : "))
+    cents = int(input("Change owed : "))
     while (cents <= 0):
-        cents = int(input("Invalid value , re-enter: "))
+    cents = int(input("Invalid value , re-enter: "))
 
 quarters , cents = calculate_quarters(cents)
 
@@ -177,14 +176,13 @@ main()
 
 Look at the `count_Letter` function, that is the key to figuring out this whole damn problem set, they told us to count letters but didn't give us any clue as to that how to identify letters. Maybe they did it purposely, so we can figure it out. I had a friend who banged his head in the wall for days to figure it out. He did give me some clues such as that use `Asci` table somehow, and that is how I thought I was going to do it as well. 
 
-But.. I found a more simpler approach, just use the `.alpha()` function. Well, this is fairly simple in Python but in `C` , things were different. Python abstracts tons of lower-level detail but `C` doesn't do that, you have much more control and that is the thing I like about `C`. Anyway, I am drifting away from the topic again. Let me show you a tiny piece of code of this problem set that I wrote in `C`
+But.. I found a more simpler approach, just use the `.alpha()` function. Well, this is fairly simple in Python but in `C`, things were different. Python abstracts tons of lower-level detail but `C` doesn't do that, you have much more control and that is the thing I like about `C`. Anyway, I am drifting away from the topic again. Let me show you a tiny piece of code of this problem set that I wrote in `C`
 
 
-```C
+```c
 int count = 0;
- int i = 0;
- while (text[i] != '\0')
-
+int i = 0;
+while (text[i] != '\0')
  {
     if(isalpha(text[i]))
     {
