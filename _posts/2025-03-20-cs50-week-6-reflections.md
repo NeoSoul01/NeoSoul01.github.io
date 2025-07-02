@@ -1,5 +1,5 @@
 ---
-title: "My Week 6 Journey: Exploring Python in CS50"
+title: "Week 6: Exploring Python in CS50"
 date: 2025-03-20 00:00:00 +0000
 categories: [computers, technology, programming]
 tags: [CS50, Python, Functions, Loops]
