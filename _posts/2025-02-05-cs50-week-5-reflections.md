@@ -1,5 +1,5 @@
 ---
-title: "My Week 5 Journey: Insights and Lessons from CS50"
+title: "Week 5: Cruising Through Datastructures"
 date: 2025-02-05 00:00:00 +0000
 categories: [ computers, technology, Programming]
 tags: [CS50, Data structures, C, Pointers]
