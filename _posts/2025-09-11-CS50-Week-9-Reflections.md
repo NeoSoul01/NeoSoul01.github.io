@@ -103,7 +103,7 @@ Well for those of you who don't know what they are - here is a quick explanation
 
 When you visit a website, you don't log in every single time - That is because that website stores your session token and identifies you because of it every time you visit that website.
 
-It knows - Oh! It's `bigdick69` Let him in.
+It knows - Oh! It's `bigpp69` Let him in.
 
 **And here's where it gets interesting:**
 If someone can hijack your session token, then he can literally login the website without needing your password and yes! He also ends up bypassing any kind of `2FA` you had for that site.
@@ -111,7 +111,7 @@ If someone can hijack your session token, then he can literally login the websit
 **How do I know that?**
 Because at the same time I was taking this course - i was actually practicing phishing as well.
 
-Don't worry, I wasn't trying to hijack your `mom's bank credentials` to steal the 10$ she has - I was just doing it for "educational purposes"
+Don't worry, I wasn't trying to hijack your `dad's bank credentials` to steal the 10$ she has - I was just doing it for "educational purposes"
 
 And while doing that - Apart from learning a whole buncha other shit, I also learned to hijack session tokens for the first time and man, it was fucking awesome.
 
@@ -290,6 +290,7 @@ So - that's another thing, this course has taught me - **being consistent.**
 
 Alright - fuck off now.
 No thanks for reading.
+
 
 
 
