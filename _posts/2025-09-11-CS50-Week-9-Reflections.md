@@ -135,7 +135,7 @@ There is a reason why the top hackers have a background as developers or experie
 
 So, if any of you is trying to make a career in cybersecurity - don't just spend time on 1 side of the coin - make sure you spend time on the other side as well.
 
-![alt text](fightclub.png)
+![Image Description](https://raw.githubusercontent.com/NeoSoul01/NeoSoul01/refs/heads/main/Fightclub.png)
 
 *Who am I even talking with? There is no body on the other side of the screen, sometimes... I feel just like him.*
 
@@ -293,3 +293,4 @@ So - that's another thing, this course has taught me - **being consistent.**
 
 Alright - fuck off now.
 No thanks for reading.
+
