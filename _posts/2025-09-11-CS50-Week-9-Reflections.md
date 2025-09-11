@@ -1,12 +1,9 @@
 ---
-title: "My Week 9 Journey"
+title: "Week 9: The Breakthrough"
 date: 2025-09-11 00:00:00 +0000
 categories: [ computers, technology, Programming]
 tags: [CS50, Flask, Web-programming, Jinja]
 ---
-
-# Week 9 - Week 9: Flask, the Final Boss of CS50
-
 Hey there, welcome back to another yap session - where I talk endlessly about my progress related to CS50.
 
 For those of you who don’t know what CS50 is - it’s a course any noob can take and learn the basics of computer science. But let me be clear: **this isn’t just another tutorial-hell YouTube series**. This course teaches you how to solve problems, how to think, how to **break** problems down and crush them. it completely re-shapes how your brain approaches tech.
@@ -293,4 +290,5 @@ So - that's another thing, this course has taught me - **being consistent.**
 
 Alright - fuck off now.
 No thanks for reading.
+
 
