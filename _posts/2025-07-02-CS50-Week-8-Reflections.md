@@ -5,10 +5,6 @@ categories: [Programming, CS50, Web Development]
 tags: [CS50, HTML, CSS, JavaScript, problem-set, Week-8, Frontend]
 ---
 
-# Week 8: My Redemption Arc
-
-## Introduction:
-
 Hey there, welcome back to another yap session - where I talk endlessly about CS50.
 
 For those of you who don’t know what CS50 is - it’s a course any noob can take and learn the basics of computer science. But let me be clear: **this isn’t just another tutorial-hell YouTube series**. This course teaches you how to solve problems, how to think, how to **break** problems down and crush them. It's not about learning one language or framework -  it's about shaping how your brain approaches tech.
