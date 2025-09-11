@@ -217,7 +217,7 @@ And tons of new programmers have this problem, it's not unique - but I believe t
 
 - Being able to understand the code
 - Being able to build the logic for the code
-- Converting the logic to code.
+- Converting the logic to code
 
 The 3rd step is where I struggle. To solve this, I used to utilize AI but then I talked with my friend from discord about this and that's when I realized that I am basically fucking myself by doing this.
 
@@ -227,18 +227,18 @@ I simple took the problem that I was facing and broke it into multiple sub-steps
 
 Now - there are a lot of discussions going on about this very topic - About whether any beginner should even use AI in the first place when learning anything and after making a lot of mistakes - Here is my take on this:
 
-- Completely not using AI is stupid
-- Use AI but be very careful about how you use it
-- Use it so you can understand the problem itself
-- But build the logic yourself and most importantly **write the code your fucking self
+- Completely not using AI is stupid.
+- Use AI but be very careful about how you use it.
+- Use it so you can understand the problem itself.
+- But build the logic yourself and most importantly **write the code your fucking self.**
 
 And you can apply this rule almost everywhere - 
 
-There has been a rise of vibe coding, recently.
-And know this - vibe coding or using AI to generate code for you - isn't a thing for beginners, especially when you are building your foundations - It's for seniors who already know what they are doing.
+Recently, there has been a massive rise in Vibe Coding
+But know this - Vibe Coding or using AI to generate code for you - isn't a thing for beginners, especially when you are building your foundations - It's for seniors who already know what they are doing.
 
 For example - I am a technical content writer and It's been a while since I have been writing.
-I am pretty open about - that I do utilize AI in my writing but you know what the interesting thing is? **I never used it when I was learning how to be good at my craft.**
+I am pretty open about my utilization of AI in writing, but you know what the interesting thing is? **I never used it when I was learning how to be good at my craft.**
 
 You need a level of expertise in your domain to be able to use AI.
 Because - you always have to be the one to guide AI to do the work for you and in result you are going to get different outputs, it's going to be your job to identify the good from the bad and you don't get that ability without knowing your shit.
@@ -290,5 +290,6 @@ So - that's another thing, this course has taught me - **being consistent.**
 
 Alright - fuck off now.
 No thanks for reading.
+
 
 
