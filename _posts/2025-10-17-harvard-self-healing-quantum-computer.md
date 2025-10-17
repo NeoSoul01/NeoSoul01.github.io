@@ -64,3 +64,9 @@ This is a big leap, no doubt, but it’s also just step one. The issue with Atom
 
 And honestly, no one really knows how long it’ll take. Maybe two years, maybe ten. But what matters is that for the first time, quantum computing isn’t just surviving experiments - it’s evolving.
 
+## Detailed Articles & Resources
+
+- [Harvard Researchers Develop First Ever Continuously Operating Quantum Computer | The Harvard Crimson ](https://www.thecrimson.com/article/2025/10/2/quantum-computing-breakthrough/)  
+- [Continuous operation of a coherent 3,000-qubit system | arXiv / Nature](https://arxiv.org/html/2506.20660v1)  
+- [Clearing a significant hurdle to quantum computing — Harvard Gazette](https://news.harvard.edu/gazette/story/2025/09/clearing-significant-hurdle-to-quantum-computing/)  
+- [New, improved 3,000-qubit neutral atom array system reloads atoms continuously for more than two hours | Phys.org](https://phys.org/news/2025-09-qubit-neutral-atom-array-reloads.html)
