@@ -79,9 +79,10 @@ We are currently in a stage where: Adopting PQC isn’t optional anymore, it’s
 
 - ["Harvest Now Decrypt Later”: Examining Post-Quantum Cryptography and the Data Privacy Risks for Distributed Ledger Networks](https://www.federalreserve.gov/econres/feds/harvest-now-decrypt-later-examining-post-quantum-cryptography-and-the-data-privacy-risks-for-distributed-ledger-networks.htm)
 
-- [Harvest Now, Decrypt Later: A New Form of Attack | Keyfactor](https://www.keyfactor.com/blog/harvest-now-decrypt-later-a-new-form-of-attack/)
+- [Harvest Now, Decrypt Later: A New Form of Attack](https://www.keyfactor.com/blog/harvest-now-decrypt-later-a-new-form-of-attack/)
 
 - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 
-- [Microsoft and Apple Advance Post-Quantum Cryptography Support in Upcoming OS Releases | Encryption Consulting](https://www.encryptionconsulting.com/microsoft-and-apple-advance-post-quantum-cryptography-support-in-upcoming-os-releases/)
+- [Microsoft and Apple Advance Post-Quantum Cryptography Support in Upcoming OS Releases](https://www.encryptionconsulting.com/microsoft-and-apple-advance-post-quantum-cryptography-support-in-upcoming-os-releases/)
+
 
