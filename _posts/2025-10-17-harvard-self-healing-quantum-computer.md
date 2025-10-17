@@ -68,8 +68,8 @@ And honestly, no one really knows how long it’ll take. Maybe two years, maybe 
 
 - [Harvard Researchers Develop First Ever Continuously Operating Quantum Computer](https://www.thecrimson.com/article/2025/10/2/quantum-computing-breakthrough/)  
   
-- [Continuous operation of a coherent 3,000-qubit system | arXiv / Nature](https://arxiv.org/html/2506.20660v1)  
-
-- [Clearing a significant hurdle to quantum computing ](https://news.harvard.edu/gazette/story/2025/09/clearing-significant-hurdle-to-quantum-computing/)  
+- [Clearing a significant hurdle to quantum computing ](https://news.harvard.edu/gazette/story/2025/09/clearing-significant-hurdle-to-quantum-computing/)
+  
 - [New, improved 3,000-qubit neutral atom array system reloads atoms continuously for more than 2 ghours](https://phys.org/news/2025-09-qubit-neutral-atom-array-reloads.html)
+
 
